@@ -4,8 +4,7 @@
   "description": "Simple task manager on MEAN 2.0",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "cd client && npm install"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
     "node": "4.4.2"
