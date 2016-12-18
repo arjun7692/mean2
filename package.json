@@ -1,12 +1,19 @@
 {
-  "name": "mytasklist",
+  "name": "tasklist",
   "version": "1.0.0",
-  "description": "Simple task manager",
+  "description": "Simple task manager on MEAN 2.0",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "engines": {
+    "node": "4.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arjun7692/mean2"
+  },
+  "author": "Arjun Sawhney",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",

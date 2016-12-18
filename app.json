@@ -1,0 +1,8 @@
+{
+    "name": "Tasklist App on MEAN 2.0",
+    "description": "Barebones node.js tasklist app using MEAN 2.0",
+    "repository": "https://github.com/arjun7692/mean2",
+    "logo": "http://node-js-sample.herokuapp.com/node.svg",
+    "keywords": ["node", "express", "static", "mean"],
+    "image": "heroku/nodejs"
+}
